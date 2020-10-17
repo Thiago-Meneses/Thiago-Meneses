@@ -1,4 +1,4 @@
-### Hi there! Don't forget to breathe ;) 👋
+### Hi there! Welcome to my Git ;) 👋
 
 
 - 🔭 I’m currently working on a platform focused on civil pilot license tests
