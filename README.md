@@ -6,3 +6,5 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thiagomvm/) Email:thiagovieiramachado123@hotmail.com
 - ⚡ Fun fact: Alligators don't eat lettuce
+
+![](images/LINKEDIN.png)
